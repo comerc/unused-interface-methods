@@ -1,5 +1,7 @@
 # Unused Interface Methods
 
+ARCHIVED DRAFT, see release here: https://github.com/unused-interface-methods/unused-interface-methods
+
 Линтер для поиска неиспользуемых методов в интерфейсах Go.
 
 ## Возможности
